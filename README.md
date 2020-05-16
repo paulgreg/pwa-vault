@@ -128,5 +128,7 @@ Each item contains these fields :
 - https://cryptobook.nakov.com/
 - https://crypto.stackexchange.com/
 - https://diafygi.github.io/webcrypto-examples/
+- https://developer.mozilla.org/en-US/docs/Web/API/SubtleCrypto
+- https://github.com/mdn/dom-examples/tree/master/web-crypto
 - https://1password.com/files/1Password-White-Paper.pdf
 - https://www.ise.io/casestudies/password-manager-hacking/
