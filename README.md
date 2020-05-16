@@ -11,9 +11,9 @@ When app is loaded, last encrypted data is fetch from server and decrypted local
 Passwords and sensitive data are *never* stored in localStorage unencrypted.
 
 That project is or will be composed of theses repositories :
-- secure-vault-pwa : the Progressive Web Application,
-- secure-vault-api : browser API about cryptgraphy & localStorage access,
-- secure-vault-server-node : server code in node,
+- [secure-vault-pwa]](https://github.com/paulgreg/secure-vault-pwa) : the Progressive Web Application,
+- [secure-vault-api](https://github.com/paulgreg/secure-vault-api) : browser API about cryptgraphy & localStorage access,
+- [secure-vault-server-node]](https://github.com/paulgreg/secure-vault-server-node) : server code in node,
 - secure-vault-web-extension : browser web extension.
 
 ## Planned features
