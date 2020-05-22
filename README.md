@@ -134,6 +134,7 @@ Each item contains these fields :
 ## Resources
 - [cryptobook.nakov.com](https://cryptobook.nakov.com/)
 - [crypto.stackexchange.com](https://crypto.stackexchange.com/), [security.stackexchange.com](https://security.stackexchange.com/)
+- https://crypto.stackexchange.com/questions/75021/encrypt-a-file-with-aes-using-a-secret-key-derived-with-argon2/75022#75022
 - [Live web crypto examples](https://diafygi.github.io/webcrypto-examples/)
 - [MDN Web Crypto API doc](https://developer.mozilla.org/en-US/docs/Web/API/SubtleCrypto)
 - [MDN Web Crypto API examples](https://github.com/mdn/dom-examples/tree/master/web-crypto)
